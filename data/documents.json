@@ -1,0 +1,14 @@
+[
+  {
+    "topic": "fever",
+    "content": "Fever is a temporary increase in body temperature, often caused by infection. Stay hydrated and rest."
+  },
+  {
+    "topic": "headache",
+    "content": "Headaches can be caused by stress, dehydration, or lack of sleep. Drink water and rest."
+  },
+  {
+    "topic": "cold",
+    "content": "Common cold is a viral infection with symptoms like sneezing, runny nose, and sore throat."
+  }
+]
