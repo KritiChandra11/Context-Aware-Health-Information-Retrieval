@@ -1,14 +1,152 @@
 [
   {
-    "topic": "fever",
-    "content": "Fever is a temporary increase in body temperature, often caused by infection. Stay hydrated and rest."
+    "id": "KB-001",
+    "topic": "Surgical Fixation and Plate Selection",
+    "content": "Metal plates, specifically Volar Locking Plates, are used in wrist fractures (distal radius fractures) to provide internal stabilization and prevent malunion. The best-suited material for these surgeries is Titanium (specifically Ti-6Al-4V alloy). Titanium is superior to stainless steel because it has a lower 'Elastic Modulus' which is closer to human bone, reducing 'stress shielding' (where the plate takes too much load and weakens the bone). Additionally, Titanium is highly biocompatible and produces fewer artifacts in post-operative MRI or CT scans."
   },
   {
-    "topic": "headache",
-    "content": "Headaches can be caused by stress, dehydration, or lack of sleep. Drink water and rest."
+    "id": "KB-002",
+    "topic": "Hemoglobin (Hb) Normal Ranges",
+    "content": "Hemoglobin is a protein in red blood cells that carries oxygen. Normal ranges: Adult males: 13.8 to 17.2 g/dL; Adult females: 12.1 to 15.1 g/dL. Levels below 7.0 g/dL are critical and may require a blood transfusion. Low hemoglobin indicates anemia, causing fatigue and dizziness."
   },
   {
-    "topic": "cold",
-    "content": "Common cold is a viral infection with symptoms like sneezing, runny nose, and sore throat."
+    "id": "KB-003",
+    "topic": "Vitamin D Deficiency & Dosage",
+    "content": "Vitamin D level below 20 ng/mL is considered a deficiency. Typical physician-prescribed dosage is 50,000 IU of Vitamin D3 once weekly for 8 weeks, followed by a maintenance dose of 1,000-2,000 IU daily. Always re-test levels after 3 months of treatment."
+  },
+  {
+    "id": "KB-004",
+    "topic": "Post-Operative Wound Care",
+    "content": "Keep the surgical incision site clean and dry for the first 48 hours. Signs of infection include increased redness, swelling, warmth at the site, or foul-smelling discharge. If a fever above 101°F occurs, contact your surgeon immediately."
+  },
+  {
+    "id": "KB-005",
+    "topic": "Diabetes - Fasting Blood Sugar",
+    "content": "Fasting blood sugar (FBS) measures glucose after an 8-hour fast. Normal: 70-99 mg/dL. Pre-diabetes: 100-125 mg/dL. Diabetes: 126 mg/dL or higher on two separate tests. Hypoglycemia is defined as levels below 70 mg/dL."
+  },
+  {
+    "id": "KB-006",
+    "topic": "Chest X-Ray: Rib Fractures",
+    "content": "Rib fractures detected via X-ray require pain management to allow for deep breathing. Healing takes 6-8 weeks. Use an incentive spirometer every hour while awake to keep the lungs clear and prevent pneumonia."
+  },
+  {
+    "id": "KB-007",
+    "topic": "Cholesterol (Lipid Profile) Targets",
+    "content": "Total Cholesterol should be below 200 mg/dL. LDL ('Bad' cholesterol) should be below 100 mg/dL. HDL ('Good' cholesterol) should be above 40 mg/dL for men and 50 mg/dL for women. Triglycerides should be below 150 mg/dL."
+  },
+  {
+    "id": "KB-008",
+    "topic": "Common Cold vs. Influenza",
+    "content": "Common cold develops over 2-3 days with sneezing and sore throat. Influenza (Flu) has an abrupt onset with high fever (100-102°F), body aches, and extreme fatigue. Treatment involves hydration and rest."
+  },
+  {
+    "id": "KB-009",
+    "topic": "Blood Pressure (Hypertension)",
+    "content": "Normal BP: Less than 120/80 mmHg. Hypertension Stage 1: 130-139 / 80-89. Stage 2: 140/90 or higher. Hypertensive Crisis: Over 180/120 requires immediate medical attention."
+  },
+  {
+    "id": "KB-010",
+    "topic": "Thyroid Function (TSH) Levels",
+    "content": "Normal TSH range is 0.4 to 4.0 mIU/L. High TSH indicates Hypothyroidism (underactive thyroid). Low TSH indicates Hyperthyroidism (overactive thyroid). Dosage adjustments for medication take 6-8 weeks."
+  },
+  {
+    "id": "KB-011",
+    "topic": "Acute Fever Management",
+    "content": "Fever is generally temperature above 100.4°F (38.0°C). Treatment includes hydration, light clothing, and antipyretics like Acetaminophen. Seek care if fever persists for more than 3 days."
+  },
+  {
+    "id": "KB-012",
+    "topic": "Kidney Function: Creatinine",
+    "content": "Normal Creatinine: 0.7 to 1.3 mg/dL for men; 0.6 to 1.1 mg/dL for women. GFR above 90 is normal; below 60 for three months indicates chronic kidney disease."
+  },
+  {
+    "id": "KB-013",
+    "topic": "Liver Function: ALT and AST",
+    "content": "Alanine Aminotransferase (ALT) and Aspartate Aminotransferase (AST) are enzymes released when liver cells are damaged. Normal ALT is 7-55 U/L. Normal AST is 8-48 U/L. Elevated levels may indicate hepatitis or fatty liver."
+  },
+  {
+    "id": "KB-014",
+    "topic": "Potassium (Electrolyte) Balance",
+    "content": "Normal Potassium levels: 3.6 to 5.2 mmol/L. Low levels (Hypokalemia) can cause muscle cramps and heart palpitations. High levels (Hyperkalemia) are dangerous and can cause cardiac arrest."
+  },
+  {
+    "id": "KB-015",
+    "topic": "White Blood Cell (WBC) Count",
+    "content": "Normal WBC: 4,500 to 11,000 cells/mcL. High WBC (Leukocytosis) suggests infection or inflammation. Low WBC (Leukopenia) increases risk of infection and can be caused by certain medications or autoimmune issues."
+  },
+  {
+    "id": "KB-016",
+    "topic": "Hydration and Urine Color",
+    "content": "Pale yellow or straw-colored urine indicates proper hydration. Dark yellow or amber indicates dehydration. Clear urine may mean over-hydration. Drink 2-3 liters of water daily for optimal organ function."
+  },
+  {
+    "id": "KB-017",
+    "topic": "Vitamin B12 Levels",
+    "content": "Normal B12 range: 200 to 900 pg/mL. Levels below 200 pg/mL indicate deficiency, leading to nerve damage, fatigue, and memory loss. Maintenance involves B12 injections or high-dose oral supplements."
+  },
+  {
+    "id": "KB-018",
+    "topic": "Uric Acid and Gout",
+    "content": "Normal Uric Acid: 2.4 to 6.0 mg/dL (women), 3.4 to 7.0 mg/dL (men). High uric acid (Hyperuricemia) leads to gout, a type of arthritis causing sudden, severe joint pain, often in the big toe."
+  },
+  {
+    "id": "KB-019",
+    "topic": "Iron Deficiency (Ferritin)",
+    "content": "Ferritin measures stored iron. Normal for men: 20-250 ng/mL; women: 10-120 ng/mL. Low ferritin is the most specific marker for iron deficiency anemia, even if Hemoglobin is still normal."
+  },
+  {
+    "id": "KB-020",
+    "topic": "Calcium and Bone Density",
+    "content": "Normal Calcium: 8.5 to 10.2 mg/dL. Calcium is vital for bone strength and muscle contraction. Chronic low calcium leads to osteoporosis. Adequate Vitamin D is required for calcium to be absorbed."
+  },
+  {
+    "id": "KB-021",
+    "topic": "Chest Pain: When to call 911",
+    "content": "Immediate emergency care is needed for chest pain described as crushing pressure, especially if it radiates to the jaw, neck, or left arm. This may be accompanied by sweating, nausea, and shortness of breath."
+  },
+  {
+    "id": "KB-022",
+    "topic": "Platelet Count (Thrombocytes)",
+    "content": "Normal Platelet count: 150,000 to 450,000 mcL. Low count (Thrombocytopenia) leads to easy bruising and bleeding. High count (Thrombocytosis) can increase the risk of blood clots."
+  },
+  {
+    "id": "KB-023",
+    "topic": "A1C (Diabetes Management)",
+    "content": "The A1C test measures average blood sugar over 3 months. Normal: below 5.7%. Pre-diabetes: 5.7% to 6.4%. Diabetes: 6.5% or higher. For diabetics, the target is usually below 7%."
+  },
+  {
+    "id": "KB-024",
+    "topic": "Dengue Fever Indicators",
+    "content": "Dengue is a viral infection characterized by sudden high fever, severe headache, and joint pain. A critical drop in Platelet count (below 100,000) and increased hematocrit levels require immediate hospitalization."
+  },
+  {
+    "id": "KB-025",
+    "topic": "C-Reactive Protein (CRP)",
+    "content": "CRP is a marker of inflammation in the body. Normal is below 1.0 mg/L. High CRP indicates an active infection, autoimmune flare-up, or high risk of heart disease."
+  },
+  {
+    "id": "KB-026",
+    "topic": "Asthma and Peak Flow",
+    "content": "Asthma management involves monitoring lung capacity using a peak flow meter. 'Green Zone' (80-100% of personal best) means symptoms are under control. 'Red Zone' (below 50%) is a medical emergency."
+  },
+  {
+    "id": "KB-027",
+    "topic": "Concussion (Head Injury) Signs",
+    "content": "Following a head injury, watch for 'Red Flag' symptoms: persistent vomiting, loss of consciousness, one pupil larger than the other, or confusion. Avoid screens and strenuous activity for 48 hours."
+  },
+  {
+    "id": "KB-028",
+    "topic": "Magnesium Levels",
+    "content": "Normal Magnesium: 1.7 to 2.2 mg/dL. Deficiency can cause muscle twitches, irregular heartbeat, and personality changes. It is found in green leafy vegetables and nuts."
+  },
+  {
+    "id": "KB-029",
+    "topic": "Sleep Hygiene Guidelines",
+    "content": "Optimal health requires 7-9 hours of sleep. Maintain a consistent sleep schedule, ensure the room is dark and cool (around 65°F), and avoid blue light from screens 1 hour before bedtime."
+  },
+  {
+    "id": "KB-030",
+    "topic": "Skin Cancer (ABCDE Rule)",
+    "content": "Examine moles for: Asymmetry, Border irregularity, Color changes, Diameter > 6mm, and Evolving shape. If a mole changes rapidly or bleeds, it should be biopsied by a dermatologist."
   }
 ]
